@@ -11,6 +11,7 @@ I'm Dara: doing an M.Sc. in AI and building with it in public. Come hang out in 
 | **BUILD** | [The Repurposer App repo](https://github.com/fellyroy-cmd/repurposer-app), my build-in-public project |
 | **CHECK** | [Verify before you ship: the 3-step AI-output checklist](check-verify-before-you-ship.md) |
 | **EDGE** | [Run AI on a $150 board: 3 Liquid AI d1 demos to clone](edge-liquid-d1-starter.md) |
+| **FLASH** | [DeepSeek V4.1 Flash: setup guide + price cheat sheet](flash-deepseek-setup.md) |
 | **MEMORY** | [claude-mem setup: make Claude Code remember your project](memory-claude-mem-setup.md) |
 | **REPURPOSE** | [The repurpose prompt: 1 video → a week of content](repurpose-one-video-a-week-prompt.md) |
 | **TEMPLATES** | [280+ free n8n automation templates](templates-n8n-library.md) |
