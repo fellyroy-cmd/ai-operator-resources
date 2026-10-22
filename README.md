@@ -16,3 +16,9 @@ I'm Dara: doing an M.Sc. in AI and building with it in public. Come hang out in 
 | **REPURPOSE** | [The repurpose prompt: 1 video → a week of content](repurpose-one-video-a-week-prompt.md) |
 | **TEMPLATES** | [280+ free n8n automation templates](templates-n8n-library.md) |
 | **THINK** | [Reasoning effort in 60 seconds](think-reasoning-effort.md) |
+
+## Starters
+
+| Starter | What you get |
+|---|---|
+| **Longform** | [Longform Starter: edit your YouTube videos with Claude Code](longform-starter/), the starter version of the system that edits my long-form videos. You record; Claude cuts the last clean takes, plans every shot (you approve the plan), builds the motion graphics, checks its own work and turns your notes into rules. Setup steps in its README. Questions and first edits → the Discord. |
