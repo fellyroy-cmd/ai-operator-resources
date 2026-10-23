@@ -14,8 +14,10 @@ I'm Dara: doing an M.Sc. in AI and building with it in public. Come hang out in 
 | **FLASH** | [DeepSeek V4.1 Flash: setup guide + price cheat sheet](flash-deepseek-setup.md) |
 | **MEMORY** | [claude-mem setup: make Claude Code remember your project](memory-claude-mem-setup.md) |
 | **REPURPOSE** | [The repurpose prompt: 1 video → a week of content](repurpose-one-video-a-week-prompt.md) |
+| **RULES** | [Anthropic's draft AI safety bill, in plain English](rules-anthropic-safety-bill.md) |
 | **TEMPLATES** | [280+ free n8n automation templates](templates-n8n-library.md) |
 | **THINK** | [Reasoning effort in 60 seconds](think-reasoning-effort.md) |
+| **TOKENS** | [The context window: one-page cheat sheet](tokens-context-window-cheat-sheet.md) |
 
 ## Starters
 
