@@ -1,16 +1,16 @@
 /* "editorial" — the default longform look, rebuilt 2026-10-17 from a full frame-by-frame watch of the reference edit
    (references/style-reference.md). White canvas, heavy black grotesk, ONE serif-italic accent word, letter-spaced mono
-   labels, flat coral chapter cards with a halftone texture, a colour per chapter. the creator's default is the DARK theme
-   (block at the end of this file) with her coral→hot-pink accent. Coordinates are 1920x1080. */
+   labels, flat hot-pink chapter cards with a halftone texture, a colour per chapter. the creator's default is the DARK theme
+   (block at the end of this file) with her hot pink accent. Coordinates are 1920x1080. */
 @font-face { font-family: 'Inter'; src: url('assets/fonts/Inter.ttf') format('truetype'); font-weight: 100 900; }
 @font-face { font-family: 'Instrument Serif'; src: url('assets/fonts/InstrumentSerif-Italic.ttf') format('truetype'); font-style: italic; }
 @font-face { font-family: 'Instrument Serif'; src: url('assets/fonts/InstrumentSerif-Regular.ttf') format('truetype'); font-style: normal; }
 @font-face { font-family: 'JetBrains Mono'; src: url('assets/fonts/JetBrainsMono.ttf') format('truetype'); font-weight: 100 800; }
 
 #stage { --ink: #0A0A0A; --paper: #FFFFFF; --mist: #F2F2F2; --line: #E4E4E4; --muted: #8A8A8A; --cream: #FBF5EC;
-  /* the creator's brand accent (design system): coral→hot-pink gradient for accent words + chapter cards, hot pink for solids.
-     Flat #FF5F3D on its own reads ORANGE on screen — never use it alone. */
-  --accent: #FF1564; --grad: linear-gradient(135deg, #FF5F3D 0%, #FF1564 100%); --chap: #FF1564; --card-r: 18px;
+  /* the creator's brand accent (design system): hot pink #FF1564 for accent words, chapter cards and solids.
+     No orange tones anywhere. */
+  --accent: #FF1564; --grad: linear-gradient(135deg, #FF1564 0%, #FF1564 100%); --chap: #FF1564; --card-r: 18px;
   --shadow: 0 24px 60px rgba(0,0,0,.12), 0 4px 14px rgba(0,0,0,.06);
   font-family: 'Inter', sans-serif; color: var(--ink); -webkit-font-smoothing: antialiased; overflow: hidden; }
 #stage *, #stage *::before, #stage *::after { box-sizing: border-box; }
@@ -270,7 +270,7 @@ em, .acc { font-family: 'Instrument Serif', serif; font-style: italic; font-weig
 
 /* ═══════════ DARK THEME (the creator's default, "theme": "dark") ═══════════
    Same grammar, the creator's palette: obsidian #0B0B0B canvas, bone #F5F5F5 type, wolf-grey #161616/#1F1F1F surfaces,
-   coral accent. build.py puts .dark on every layer that sits on a dark canvas. Light beats ("bg": "white") still work. */
+   hot-pink accent. build.py puts .dark on every layer that sits on a dark canvas. Light beats ("bg": "white") still work. */
 #depth { position: absolute; inset: 0; pointer-events: none; opacity: 0;
   background: radial-gradient(70% 60% at 50% 0%, rgba(255,21,100,.07) 0%, transparent 70%),
               radial-gradient(120% 90% at 50% 40%, #121212 0%, #0B0B0B 70%); }

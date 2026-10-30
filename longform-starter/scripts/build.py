@@ -11,7 +11,7 @@ Writes: sections/<sid>/{index.html, assets/...}, timeline.json (every beat/event
 Look (default "editorial", references/style-reference.md — rebuilt 2026-10-17 from a full frame-by-frame watch):
 white canvas + black contrast beats; the spoken line becomes the HEADLINE on graphic scenes (heavy black grotesk, one
 serif-italic accent word, words blur in as they're said); captions only on talking-head shots; the creator shrinks into a
-CIRCLE bubble (iris glide, spinning accent ring) or a rounded split panel or a framed shot on black; flat coral
+CIRCLE bubble (iris glide, spinning accent ring) or a rounded split panel or a framed shot on black; flat hot-pink
 chapter cards with halftone texture, a job tracker and a travelling dot; one colour per chapter; every idea drawn as
 a diagram that builds word by word. 
 """
@@ -655,7 +655,7 @@ def lint(plan, beats, total) -> list[str]:
 def build(d: Path, draft: bool, only: str | None, lint_only: bool) -> None:
     plan = read_json(d / "plan.json")
     style = plan.get("style", "editorial")
-    theme = plan.get("theme", "dark")                 # the creator's default (2026-10-17): dark canvas, coral accent
+    theme = plan.get("theme", "dark")                 # the creator's default (2026-10-17): dark canvas, hot-pink accent
     if theme not in CANVAS:
         sys.exit("theme must be dark or light")
     css_file = LF_ASSETS / f"{style}.css"
