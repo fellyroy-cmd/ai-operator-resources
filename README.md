@@ -6,6 +6,7 @@ I'm Dara: doing an M.Sc. in AI and building with it in public. Come hang out in 
 
 | Keyword | What you get |
 |---|---|
+| **ACCESS** | [Try the Repurposer App: get an access code](access-repurposer-app.md) |
 | **AGENT** | [The safe-access checklist for AI agents](agent-safe-access-checklist.md) |
 | **AUDIT** | [The "find the waste" prompt: audit your AI workflow for hidden costs](audit-hidden-ai-costs-prompt.md) |
 | **BUILD** | [The Repurposer App repo](https://github.com/fellyroy-cmd/repurposer-app), my build-in-public project |
