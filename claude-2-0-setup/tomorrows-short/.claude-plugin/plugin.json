@@ -1,0 +1,6 @@
+{
+  "name": "tomorrows-short",
+  "version": "0.2.0",
+  "description": "Side panel: tomorrow's short from your schedule and whether it's recorded yet",
+  "types": "./types/index.d.ts"
+}

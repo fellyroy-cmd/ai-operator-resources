@@ -23,4 +23,5 @@ I'm Dara: doing an M.Sc. in AI and building with it in public. Come hang out in 
 
 | Starter | What you get |
 |---|---|
+| **Claude 2.0** | [My Claude 2.0 setup for creators + the mod I built](claude-2-0-setup/): the team-of-sessions prompt, side chats, the two doctor commands, the dashboard prompt, the one rule, and the "Tomorrow's short" mod. From the video "Claude 2.0 for Creators: How I Run My Whole Business In It". |
 | **Longform** | [Longform Starter: edit your YouTube videos with Claude Code](longform-starter/), the starter version of the system that edits my long-form videos. You record; Claude cuts the last clean takes, plans every shot (you approve the plan), builds the motion graphics, checks its own work and turns your notes into rules. Setup steps in its README. Questions and first edits → the Discord. |
